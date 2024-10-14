@@ -17,7 +17,7 @@ newLabels = {
 }
 
 # The main code to run. Circumvents the initial code of the original program
-#  The jal instruction will be explained later in the course.
+#  The jal instruction will be explained later in the course..
 newMainCode = '''
         la   a0, matric     # a0 gets the **address** of matric
         la   a1, var1       # a1 gets address of var1
